@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RashiTech
-- 👀 I’m keen to start my career in Machine Learning and Deep Learning
-
+- 👀 I’m passionate about Artificial Intelligence and Machine Learning.
 
 <!---
 RashiTech/RashiTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
